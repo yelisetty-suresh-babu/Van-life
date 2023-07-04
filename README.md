@@ -1,4 +1,4 @@
-# coc6c411f80135a458f38f7fc
+# co42c4499bfc6b53a80b24d20
 
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
 
@@ -21,13 +21,3 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
-
-
-echo "# Van-life" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/yelisetty-suresh-babu/Van-life.git
-git push -u origin main# Van-life
-# Van-life
