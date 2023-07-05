@@ -40,5 +40,5 @@ export async function loginUser(creds) {
         }
     }
 
-    return data
+    return {...data,status:200}
 }
