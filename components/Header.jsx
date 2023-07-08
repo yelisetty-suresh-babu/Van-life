@@ -1,6 +1,6 @@
 import React from "react"
 import { Link, NavLink } from "react-router-dom"
-// import {imgurl} from require('https://cdn-icons-png.flaticon.com/512/6522/6522516.png')
+
 export default function Header() {
     const activeStyles = {
         fontWeight: "bold",
@@ -36,8 +36,7 @@ export default function Header() {
                 </NavLink>
                 <Link to="login" className="login-link">
                     <img 
-                        // src="https://cdn-icons-png.flaticon.com/512/6522/6522516.png"
-                        src='./avatar-icon.png'
+                        src="../assets/images/avatar-icon.png" 
                         className="login-icon"
                     />
                 </Link>

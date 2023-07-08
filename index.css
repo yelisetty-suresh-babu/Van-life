@@ -129,6 +129,7 @@ footer {
     color: white;
     padding: 45px 23px;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 
@@ -145,6 +146,7 @@ footer {
 
 .home-container p {
     line-height: 24px;
+    font-size: large;
 }
 
 .home-container a {
@@ -763,9 +765,5 @@ img.graph {
     padding-left: 8px;
     padding-right: 8px;
     color: whitesmoke;
-
-
-
-    
 
 }
