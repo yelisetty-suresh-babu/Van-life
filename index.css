@@ -753,3 +753,19 @@ img.graph {
     color: #ff8c38;
     margin-right: 5px;
 }
+
+
+.Dashboard_btn
+{
+    background-color: #ff9e59;
+    padding: 3px;
+    border-radius: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    color: whitesmoke;
+
+
+
+    
+
+}
